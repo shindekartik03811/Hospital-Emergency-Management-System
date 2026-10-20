@@ -1,0 +1,6 @@
+{
+  "name": "AuraER - Hospital Emergency Management System",
+  "description": "Hospital Emergency Management System featuring dynamic linked-list patient record storage, priority emergency triage queue with FIFO handling for normal cases, treatment bays, and live clinical monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
